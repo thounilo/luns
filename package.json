@@ -1,0 +1,26 @@
+{
+  "name": "minihash",
+  "version": "1.0.0",
+  "description": "Creates random sequence of characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thounilo/minihash.git"
+  },
+  "keywords": [
+    "hash"
+  ],
+  "author": "Toni Loikkanen (thounilo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thounilo/minihash/issues"
+  },
+  "homepage": "https://github.com/thounilo/minihash#readme",
+  "devDependencies": {
+    "rollup": "^2.64.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
